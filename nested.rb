@@ -82,7 +82,6 @@ def adding_matz
       }
     }
   programmer_hash[:additonal_characters] = [
- 
     {
     :yukihiro_matsumoto => {
      :known_for => "Ruby",
